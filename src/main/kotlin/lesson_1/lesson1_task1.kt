@@ -1,6 +1,7 @@
 package org.example.lesson_1
 
 fun main() {
-    println("Тестовая строка")
+    var numberOfOrders: Int
+    val textAfterOrdering: String = "Спасибо за заказ! Менеджер свяжется с Вами"
 
 }
